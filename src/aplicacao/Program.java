@@ -1,3 +1,5 @@
+package aplicacao;
+
 
 import Entities.Funcoes;
 import java.util.Scanner;
